@@ -19,3 +19,5 @@ Also, the complexity of algorithm is reduced from O(no._of_categories*no._of_pro
 
 # Contact me
 For further queries and questions, mail me at mishitajoshi@gmail.com
+
+Note: The data is scraped from https://www.dellemc.com/hi-in/index.htm
