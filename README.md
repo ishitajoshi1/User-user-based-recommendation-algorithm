@@ -18,6 +18,6 @@ b) New User with no history
 Also, the complexity of algorithm is reduced from O(no._of_categories*no._of_products) to O(no._of_categories)
 
 # Contact me
-For further queries and questions, mail me at mishitajoshi@gmail.com
+For further queries and errors, mail me at mishitajoshi@gmail.com
 
 Note: The data is scraped from https://www.dellemc.com/hi-in/index.htm
