@@ -1,0 +1,23 @@
+﻿PID,ProductName,Category,Warranty
+DE100,Featured Services,Deployment Services,24
+DE101,IT Infrastructured Services,Deployment Services,18
+DE102,Buisness Client Services,Deployment Services,12
+DE103,Deployment Technologies,Deployment Services,12
+DE104,IT Transformation,Consulting Services,12
+DE105,Workforce Services,Consulting Services,6
+DE106,Application Services,Consulting Services,12
+DE110,Support services for Home and PC'S,Support Services,18
+DE111,Warranty Services,Support Services,24
+DE112,Support Technologies,Support Services,12
+DE113,Infrastructure Managed Services,Managed IT services,18
+DE114,Promanage for End Users,Managed IT services,18
+DE115,PowerMax,Educational Services,12
+DE116,Security,Educational Services,24
+DE117,Big Data,Educational Services,24
+DE118,Cloud,Educational Services,18
+DE119,Virtustream Enterpirse Cloud,VirtuStream Cloud Services,12
+DE120,Cloud Planning &Migration,VirtuStream Cloud Services,6
+DE121,Virtustream Federal Cloud,VirtuStream Cloud Services,18
+DE122,VirtuStream health care cloud,VirtuStream Cloud Services,24
+DE123,Global Infrastructure Footprint,VirtuStream Cloud Services,12
+DE124,Payment Solutions,Financial Services,6
